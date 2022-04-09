@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Block Sites</string>
+    <string name="description">accessibility service description: Coined one Block url</string>
+    <string name="schedule">Schedule</string>
+    <string name="add_your_timing">Add your timing</string>
+    <string name="add_timing">Add Timing</string>
+    <string name="save">SAVE</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="time_empty">--</string>
+    <string name="desc_blacklist"><Data><![CDATA[In blacklist mode, the <b>websites in the list are blocked</b> but all other websites are allowed. ]]></Data></string>
+    <string name="desc_whitelist"><Data><![CDATA[In whitelist mode, the <b>websites in the list are allowed</b> but all other websites are blocked. ]]></Data> </string>
+</resources>
